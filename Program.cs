@@ -32,3 +32,14 @@ string[] GetArrayThreeSimvol (string[] array)
     }
     return arrayThreeSimvol;
 }
+
+//создаем метод для вывода информации из массивов с использованием цеклического вывода каждого элемента массива.
+void Print (string[] array)
+{
+    for (int i = 0; i < array.Length; i++)
+    {
+        Console.Write($"{array[i]}, ");
+    }
+    Console.WriteLine();
+}
+
