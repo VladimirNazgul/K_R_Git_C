@@ -43,16 +43,16 @@ void Print (string[] array)
     Console.WriteLine();
 }
 //Создаем вариант ввода символов в консоле пользователем (с пояснениями что неодходимо делать), и выводом результатов
-Console.Write("Введите набор символов через знак пробела ( ) - ");
+Console.Write("Введите набор символов через пробел: ");
 string inStringSimvol = Console.ReadLine();
 string[] arraySimvol = GetArrayStringConsole(inStringSimvol);
 Console.WriteLine();
-Console.Write("Введенные символы - ");
+Console.Write("Введенные символы: ");
 Print(GetArrayStringConsole(inStringSimvol));
 Console.WriteLine();
 // Проверка метода GetArrayThreeSimvol, без ввода в консоль
 // string[] arraySimvol = new string[5] {"123", "23", "hello", "world", "res"};
-Console.Write("Введенные символы длинной меньше либо равны 3 - ");
+Console.Write("Введенные символы длинной меньше либо равны 3: ");
 Print(GetArrayThreeSimvol(arraySimvol));
 Console.WriteLine();
 
