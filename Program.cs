@@ -1,4 +1,4 @@
-//создаем метод для разделения строки из консоли в массив по знаку “,”
+﻿//создаем метод для разделения строки из консоли в массив по знаку “,”
 string[] GetArrayStringConsole (string inConsolSimvol)
 {
     string[] arraySimvol = new string[inConsolSimvol.Length];
@@ -38,11 +38,11 @@ void Print (string[] array)
 {
     for (int i = 0; i < array.Length; i++)
     {
-        Console.Write($"{array[i]}, ");
+        Console.Write($"{array[i]} ");
     }
     Console.WriteLine();
 }
-
+//Создаем вариант ввода символов в консоле пользователем (с пояснениями что неодходимо делать), и выводом результатов
 Console.Write("Введите набор символов через знак (,) - ");
 string inStringSimvol = Console.ReadLine();
 string[] arraySimvol = GetArrayStringConsole(inStringSimvol);
