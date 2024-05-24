@@ -50,9 +50,9 @@ Console.WriteLine();
 Console.Write("Введенные символы - ");
 Print(GetArrayStringConsole(inStringSimvol));
 Console.WriteLine();
+// Проверка метода GetArrayThreeSimvol, без ввода в консоль
+// string[] arraySimvol = new string[5] {"123", "23", "hello", "world", "res"};
 Console.Write("Введенные символы длинной меньше либо равны 3 - ");
 Print(GetArrayThreeSimvol(arraySimvol));
 Console.WriteLine();
 
-//Проверка внутри алгаритма, без ввода в консоль
-//string[] inStringSimvol = new string[5] {"123", "23", "hello", "world", "res"};
