@@ -1,0 +1,15 @@
+C:\Java\K_R_Git_C\K_R_Git_C\bin\Debug\net6.0\K_R_Git_C.exe
+C:\Java\K_R_Git_C\K_R_Git_C\bin\Debug\net6.0\K_R_Git_C.deps.json
+C:\Java\K_R_Git_C\K_R_Git_C\bin\Debug\net6.0\K_R_Git_C.runtimeconfig.json
+C:\Java\K_R_Git_C\K_R_Git_C\bin\Debug\net6.0\K_R_Git_C.dll
+C:\Java\K_R_Git_C\K_R_Git_C\bin\Debug\net6.0\K_R_Git_C.pdb
+C:\Java\K_R_Git_C\K_R_Git_C\obj\Debug\net6.0\K_R_Git_C.csproj.AssemblyReference.cache
+C:\Java\K_R_Git_C\K_R_Git_C\obj\Debug\net6.0\K_R_Git_C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Java\K_R_Git_C\K_R_Git_C\obj\Debug\net6.0\K_R_Git_C.AssemblyInfoInputs.cache
+C:\Java\K_R_Git_C\K_R_Git_C\obj\Debug\net6.0\K_R_Git_C.AssemblyInfo.cs
+C:\Java\K_R_Git_C\K_R_Git_C\obj\Debug\net6.0\K_R_Git_C.csproj.CoreCompileInputs.cache
+C:\Java\K_R_Git_C\K_R_Git_C\obj\Debug\net6.0\K_R_Git_C.dll
+C:\Java\K_R_Git_C\K_R_Git_C\obj\Debug\net6.0\refint\K_R_Git_C.dll
+C:\Java\K_R_Git_C\K_R_Git_C\obj\Debug\net6.0\K_R_Git_C.pdb
+C:\Java\K_R_Git_C\K_R_Git_C\obj\Debug\net6.0\K_R_Git_C.genruntimeconfig.cache
+C:\Java\K_R_Git_C\K_R_Git_C\obj\Debug\net6.0\ref\K_R_Git_C.dll

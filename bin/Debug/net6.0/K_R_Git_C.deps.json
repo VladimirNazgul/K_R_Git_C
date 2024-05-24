@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "K_R_Git_C/1.0.0": {
+        "runtime": {
+          "K_R_Git_C.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "K_R_Git_C/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
