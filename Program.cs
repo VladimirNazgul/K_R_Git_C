@@ -1,8 +1,8 @@
-﻿//создаем метод для разделения строки из консоли в массив по знаку “,”
+﻿//создаем метод для разделения строки из консоли в массив по пробелу “ ”
 string[] GetArrayStringConsole (string inConsolSimvol)
 {
     string[] arraySimvol = new string[inConsolSimvol.Length];
-    arraySimvol = inConsolSimvol.Split(",");
+    arraySimvol = inConsolSimvol.Split(" ");
     return arraySimvol;
 }
 
@@ -43,7 +43,7 @@ void Print (string[] array)
     Console.WriteLine();
 }
 //Создаем вариант ввода символов в консоле пользователем (с пояснениями что неодходимо делать), и выводом результатов
-Console.Write("Введите набор символов через знак (,) - ");
+Console.Write("Введите набор символов через знак пробела ( ) - ");
 string inStringSimvol = Console.ReadLine();
 string[] arraySimvol = GetArrayStringConsole(inStringSimvol);
 Console.WriteLine();
@@ -53,3 +53,6 @@ Console.WriteLine();
 Console.Write("Введенные символы длинной меньше либо равны 3 - ");
 Print(GetArrayThreeSimvol(arraySimvol));
 Console.WriteLine();
+
+//Проверка внутри алгаритма, без ввода в консоль
+//string[] inStringSimvol = new string[5] {"123", "23", "hello", "world", "res"};
